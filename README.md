@@ -4,12 +4,8 @@
 
 
 
-<!-- 动态文本效果 -->
-<div align="center">
-
-![Dynamic Text](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&fontSize=80&center=true&lines=Welcome+To+My+Chill+Space+For+Creative+Vibes;Kick+Back+And+Check+Out+My+Fun+And+Wacky+Projects!&duration=3000)
-
-<p align="center" style="display: flex; justify-content: center;"> 
+<!-- 统计 -->
+<p align="center" style="display: flex; justify-content: center; white-space: nowrap;"> 
 <a href="https://b23.tv/ublcWCZ">
 <img style="max-width: 100%; height: 200px; width: auto; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Sharky-shark-Blue&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
@@ -17,6 +13,7 @@
 <img style="max-width: 100%; height: 200px; width: auto;" src="https://streak-stats.demolab.com?user=Sharky-shark-Blue&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 </p>
+
 
 
 <!-- 图片 -->
