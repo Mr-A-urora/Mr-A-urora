@@ -17,7 +17,7 @@
 
 <!-- 图片 -->
 <p align="center">
-  <img src="image/images.jpg" alt="images" style="max-width: 80%; height: auto;">
+  <img src="image/images.jpg" alt="images" style="max-width: 50%; height: auto;">
 </p>
 <hr>
 
