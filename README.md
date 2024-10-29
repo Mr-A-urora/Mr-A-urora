@@ -2,20 +2,20 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Blue Sharky-shark</h1>
 <hr>
 
+
+
 <!-- 动态文本效果 -->
 <div align="center">
 
-![Dynamic Text](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&fontSize=80&center=true&lines=Welcome+to+My+Creative+Space;Join+Me+On+An+Adventure+Through+My+Innovative+Projects!)
-</div>
-
+![Dynamic Text](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&fontSize=80&center=true&lines=Welcome+To+My+Chill+Space+For+Creative+Vibes;Kick+Back+And+Check+Out+My+Fun+And+Wacky+Projects!&duration=3000)
 
 <!-- 统计 -->
-<p align="center">
+<p align="center"> 
 <a href="https://b23.tv/ublcWCZ">
-<img style="max-width: 100%; width: 410px;" src="https://github-readme-stats.vercel.app/api?username=Sharky-shark-Blue&show_icons=true&theme=tokyonight&hide_border=true" />
+<img style="max-width: 100%; height: 200px; width: auto;" src="https://github-readme-stats.vercel.app/api?username=Sharky-shark-Blue&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://b23.tv/ublcWCZ">
-<img style="max-width: 100%; width: 410px;" src="https://streak-stats.demolab.com?user=Sharky-shark-Blue&layout=compact&theme=tokyonight&hide_border=true" />
+<img style="max-width: 100%; height: 200px; width: auto;" src="https://streak-stats.demolab.com?user=Sharky-shark-Blue&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 </p>
 
@@ -24,6 +24,7 @@
   <img src="image/images.jpg" alt="images" style="max-width: 100%; height: auto;">
 </p>
 <hr>
+
 
 <!-- 奖杯 -->
 <div align="center">
