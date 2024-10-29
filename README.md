@@ -5,12 +5,12 @@
 
 
 <!-- 统计 -->
-<p align="center" style="display: flex; justify-content: center; white-space: nowrap;"> 
+<p align="center"> 
 <a href="https://b23.tv/ublcWCZ">
-<img style="max-width: 100%; height: 200px; width: auto; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Sharky-shark-Blue&show_icons=true&theme=tokyonight&hide_border=true" />
+<img style="max-width: 100%; width: 400px;" src="https://github-readme-stats.vercel.app/api?username=Sharky-shark-Blue&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://b23.tv/ublcWCZ">
-<img style="max-width: 100%; height: 200px; width: auto;" src="https://streak-stats.demolab.com?user=Sharky-shark-Blue&layout=compact&theme=tokyonight&hide_border=true" />
+<img style="max-width: 100%; width: 400px;" src="https://streak-stats.demolab.com?user=Sharky-shark-Blue&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 </p>
 
