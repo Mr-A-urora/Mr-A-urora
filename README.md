@@ -18,8 +18,11 @@
 </p>
 
 
-![images](image/images.jpg =100x100)
-
+<!-- 图片 -->
+<p align="center">
+  ![images](image/images.jpg =300x300)
+</p>
+<hr>
 
 <!-- 奖杯 -->
 <div align="center">
