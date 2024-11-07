@@ -21,7 +21,7 @@
 
 <!-- 图片 -->
 <p align="center">
-  <img src="image/images.jpg" alt="images" style="500px: 50%; height: auto;">
+  <img src="image/images.jpg" alt="images" style="300px: 50%; height: auto;">
 </p>
 <hr>
 
