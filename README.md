@@ -13,7 +13,7 @@
 <img style="max-width: 100%; width: 370px; background-color: transparent;" src="https://github-readme-stats.vercel.app/api?username=Sharky-shark-Blue&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://b23.tv/ublcWCZ">
-<img style="max-width: 100%; width: 395px; background-color: transparent;" src="https://streak-stats.demolab.com?user=Sharky-shark-Blue&layout=compact&theme=tokyonight&hide_border=true" />
+<img style="max-width: 100%; width: 392px; background-color: transparent;" src="https://streak-stats.demolab.com?user=Sharky-shark-Blue&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 </p>
 
