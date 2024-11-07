@@ -17,14 +17,11 @@
 </a>
 </p>
 
-
-<!-- 图片 -->
 <!-- 图片 -->
 <p align="center">
-  <img src="image/images.jpg" alt="images" 
+  <img src="image/images.jpg" alt="images" style="max-width: 20%; height: auto;">
 </p>
 <hr>
-
 
 <!-- 奖杯 -->
 <div align="center">
