@@ -18,12 +18,7 @@
 </p>
 
 
-
-<!-- 图片 -->
-<p align="center">
-  <img src="image/images.jpg" alt="images" style="max-width: 20%; height: auto;">
-</p>
-<hr>
+![images](image/images.jpg =100x100)
 
 
 <!-- 奖杯 -->
