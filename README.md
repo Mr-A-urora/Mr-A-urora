@@ -1,7 +1,7 @@
 <!-- Header with animated shark -->
 <p align="center">
-  <a href="https://github.com/Sharky-shark-Blue">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+there%2C+I'm+Blue+Sharky-shark+🦈" alt="Typing SVG" />
+  <a href="https://github.com/Mr-A-urora">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+there%2C+I'm+Mr-A-urora+🐬" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,12 +27,12 @@
 </h3>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sharky-shark-Blue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00A1D6&icon_color=00A1D6" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharky-shark-Blue&theme=tokyonight&hide_border=true&background=0D1117&stroke=00A1D6&ring=00A1D6&fire=00A1D6" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mr-A-urora&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00A1D6&icon_color=00A1D6" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-A-urora&theme=tokyonight&hide_border=true&background=0D1117&stroke=00A1D6&ring=00A1D6&fire=00A1D6" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharky-shark-Blue&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A1D6" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-A-urora&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A1D6" />
 </div>
 
 <!-- Profile Image with Glow Effect -->
@@ -52,7 +52,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sharky-shark-Blue&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mr-A-urora&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
 </div>
 
 <!-- Tech Stack with Wave Animation -->
