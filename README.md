@@ -7,23 +7,23 @@
 
 <!-- Animated welcome message -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&pause=1000&color=F7D665&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+Ocean+of+Code;Where+Creativity+Flows+Like+Waves;Let's+Dive+into+Something+Amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&pause=1000&color=F7D665&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+Ocean+of+Code;Where+Creativity+Flows+Like+Waves;You+Must+Believe+In+Yourself!" alt="Typing SVG" />
 </div>
 
 <!-- Fancy Social Links -->
 <div align="center">
-  <a href="https://b23.tv/ublcWCZ">
+  <a href="https://space.bilibili.com/3546700553653082?spm_id_from=333.1007.0.0">
     <img src="https://img.shields.io/badge/Bilibili-哔哩哔哩-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:3772589225@qq.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Status-Swimming_in_Code...-87CF3E?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Working_Hard_in_Code...-87CF3E?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </div>
 
 <!-- GitHub Stats with Ocean Theme -->
 <h3 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">深海数据 | Ocean Stats 
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">这些年，深海的数据 | Ocean Stats 
 </h3>
 
 <div align="center">
@@ -48,7 +48,7 @@
 
 <!-- Achievements -->
 <h3 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;深海成就 | Deep Sea Achievements
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;这些年，深海的成就 | Deep Sea Achievements
 </h3>
 
 <div align="center">
@@ -58,30 +58,29 @@
 <!-- Tech Stack with Wave Animation -->
 <h3 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">
-  技术之浪 | Tech Waves
+  这些年，技术的浪花 | Tech Waves
 </h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-深海蓝-00A1D6?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-海藻绿-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-珊瑚色-42B883?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-海蛇蓝-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-深渊蓝-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-暗流蓝-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-珊瑚红-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-金沙色-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-还在学ing-00A1D6?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-还在学ing-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-还在学ing-42B883?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-一起相互学习-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-一起相互学习-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-一起相互学习-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-一起相互学习-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-还在学ing-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
 <!-- Interests with Wave Theme -->
 <h3 align="center">
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">
-  浪花兴趣 | Wave Interests
+  这些年，浪花的兴趣 | Wave Interests
 </h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/性格-深邃如海-00A1D6?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/爱好-二次元-FF69B4?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/YouTube-珊瑚红-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/虽千万人-吾往矣！-00A1D6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/生如逆旅-一苇以航-FF69B4?style=for-the-badge&logoColor=white" />
 </div>
 
 <!-- Snake Animation -->
